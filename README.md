@@ -12,7 +12,7 @@
 
 ---
 
-### 📖 The Prologue: A Foundation Built in Kali
+### 📖 The Prologue: A Foundation Built in Kali Linux
 
 My journey in software engineering isn't just about writing syntax; it's about building a resilient mindset. Operating primarily out of a **Kali Linux** and VS Code environment, I have successfully closed the chapter on full-stack web application development. With the architecture built and deployed, my focus has shifted entirely. I am currently in a phase of relentless optimization, dedicating my focus to algorithmic mastery and cracking top-tier technical interviews.
 
