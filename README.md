@@ -1,38 +1,62 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Mylavaram+Naga+Sai+👋;Writing+code+until+the+bugs+give+up.;Mastering+Data+Structures+%26+Algorithms;Preparing+for+Top-Tier+Interviews" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mylavaram+Naga+Sai;Writing+code+until+the+bugs+give+up;Executing+the+04:00+AM+Grind;Mastering+Algorithms+%26+Security" alt="Typing SVG" /></a>
 
-<p align="center">
-  <b>Aspiring software engineer executing a structured daily routine to master full-stack architecture and crack top-tier technical interviews.</b>
-</p>
+<br>
+
+> *"Success is not a random occurrence; it is the result of a meticulously executed routine."*
+
+</div>
 
 ---
 
-### 📊 Real-Time GitHub Stats & Streak
-<img src="https://github-readme-stats.vercel.app/api?username=MylavaramNagaSai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MylavaramNagaSai&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+### 📖 The Prologue: A Foundation Built in Kali
 
-### 🏆 Competitive Programming (Daily 5 Ritual)
-<a href="https://leetcode.com/u/Mylavaram_Naga_Sai/">
-  <img src="https://leetcard.jacoblin.cool/Mylavaram_Naga_Sai?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="60%">
-</a>
+My journey in software engineering isn't just about writing syntax; it's about building a resilient mindset. Operating primarily out of a **Kali Linux** and VS Code environment, I have successfully closed the chapter on full-stack web application development. With the architecture built and deployed, my focus has shifted entirely. I am currently in a phase of relentless optimization, dedicating my focus to algorithmic mastery and cracking top-tier technical interviews.
+
+### ⚙️ The Engine: Daily Execution
+
+The alarm rings at **04:00 AM**. From that moment until 21:45, my day is a highly structured architecture of learning, solving, and pushing logic to its limits. 
+
+* **The Daily Crucible:** Solving 5 complex algorithmic challenges across competitive platforms to sharpen my C, Java, and Python logic.
+* **The Weekly Upgrade:** Securing 1 new certification in cloud or security infrastructure to broaden my technical horizon.
+
+<div align="center">
+
+### 🧰 The Arsenal
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 <br><br>
 
-<a href="https://leetcode.com/u/Mylavaram_Naga_Sai/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/></a>
-<a href="https://www.codechef.com/users/mylavaramsai"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/></a>
-<a href="https://www.hackerrank.com/profile/mylavaramsai"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
-<a href="https://codeforces.com/profile/mylavaramsai"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/></a>
-<a href="https://www.geeksforgeeks.org/user/mylavaramsai/"><img src="https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/></a>
+### ⚔️ The Proving Grounds
+<a href="https://leetcode.com/u/Mylavaram_Naga_Sai/">
+  <img src="https://leetcard.jacoblin.cool/Mylavaram_Naga_Sai?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="60%">
+</a>
 
-### ☁️ Weekly Certification & Security Focus
-<img src="https://img.shields.io/badge/Cisco_Track-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Track"/>
-<img src="https://img.shields.io/badge/AWS_Skills_Build-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Skills Build"/>
-<img src="https://img.shields.io/badge/Fortinet_Cloud-C02A1A?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet Cloud"/>
+<br><br>
+<a href="https://leetcode.com/u/Mylavaram_Naga_Sai/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/mylavaramsai"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/mylavaramsai"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/mylavaramsai"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/user/mylavaramsai/"><img src="https://img.shields.io/badge/GeeksForGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white" /></a>
 
----
-<p align="center">
-  <i>Explore my pinned repositories below to review my finalized web app, security simulations, and practice logs.</i>
-</p>
+<br><br>
+
+### 🛡️ Forging the Shield: Security & Cloud
+<img src="https://img.shields.io/badge/Cisco_Track-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_Skills_Build-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Fortinet_Cloud-C02A1A?style=flat-square&logo=fortinet&logoColor=white" />
+
+<br><br>
+
+### 📊 The Ledger of Consistency
+<img src="https://github-readme-stats.vercel.app/api?username=MylavaramNagaSai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MylavaramNagaSai&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 
 </div>
+
+---
+*Every commit logged here represents a step closer to the ultimate goal. The foundations are built; the focus now is pure execution.*
