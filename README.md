@@ -9,21 +9,6 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Emojis/Activities/Trophy.png" alt="Divider" width="40" height="40" />
-
-## 🏆 Chapter VI: Milestone Acquisitions
-
-*A record of significant operational victories and acquired badges.*
-
-* 🎖️ **Pull Shark:** Merged open-source pull requests.
-* ⚡ **Quickdraw:** Resolved tracked issues in under 5 minutes.
-* 🚀 **YOLO:** Executed and merged unreviewed critical patches.
-* 🌟 **CodeQuantum Deployed:** Successfully launched full-stack FastAPI/Llama 3 architecture.
-* 🔥 **Unbroken Execution:** Sustained daily 5-problem algorithmic streak across multiple platforms.
-
-<br><br>
-
-
 ---
 
 ### 📖 The Prologue: A Foundation Built in Kali
