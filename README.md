@@ -2,6 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mylavaram+Naga+Sai;Writing+code+until+the+bugs+give+up;Executing+the+04:00+AM+Grind;Mastering+Algorithms+%26+Security" alt="Typing SVG" /></a>
 
+
 <br>
 
 > *"Success is not a random occurrence; it is the result of a meticulously executed routine."*
