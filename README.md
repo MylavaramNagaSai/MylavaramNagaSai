@@ -28,6 +28,16 @@ The alarm rings at **04:00 AM**. From that moment until 21:45, my day is a highl
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 <br><br>
 
@@ -37,18 +47,27 @@ The alarm rings at **04:00 AM**. From that moment until 21:45, my day is a highl
 </a>
 
 <br><br>
-<a href="https://leetcode.com/u/Mylavaram_Naga_Sai/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/mylavaramsai"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/profile/mylavaramsai"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" /></a>
-<a href="https://codeforces.com/profile/mylavaramsai"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white" /></a>
-<a href="https://www.geeksforgeeks.org/user/mylavaramsai/"><img src="https://img.shields.io/badge/GeeksForGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Mylavaram_Naga_Sai/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/mylavaramsai"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/mylavaramsai"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+<br>
+<a href="https://codeforces.com/profile/mylavaramsai"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/user/mylavaramsai/"><img src="https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.codewars.com/users/mylavaramsai"><img src="https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" /></a>
+<br>
+<a href="https://atcoder.jp/users/MylavaramSaei"><img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge" /></a>
+<a href="https://www.codingame.com/profile/19737c7fc7cf4e09e875d62768f3f4970872376"><img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" /></a>
+<a href="https://www.naukri.com/code360/profile/07092fec-d271-4659-aa05-45eed25d34e2"><img src="https://img.shields.io/badge/Naukri_Code_360-00AEEF?style=for-the-badge" /></a>
 
 <br><br>
 
 ### 🛡️ Forging the Shield: Security & Cloud
-<img src="https://img.shields.io/badge/Cisco_Track-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_Skills_Build-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Fortinet_Cloud-C02A1A?style=flat-square&logo=fortinet&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco_Track-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_Skills_Build-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Fortinet_Cloud-C02A1A?style=for-the-badge&logo=fortinet&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/HackerOne_Bounties-272322?style=for-the-badge&logo=hackerone&logoColor=white" />
+<a href="https://devpost.com/mylavaramnagasaei?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" /></a>
 
 <br><br>
 
